@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="@color/Gray1"
+    tools:context=".MainScreen">
+
+    <Button
+        android:id="@+id/perBtn"
+        android:layout_width="151dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="279dp"
+        android:layout_marginEnd="74dp"
+        android:layout_marginBottom="382dp"
+        android:layout_toStartOf="@+id/limiBtn"
+        android:background="@drawable/fold"
+        android:text="Permanent Challenges"/>
+
+    <Button
+        android:id="@+id/limiBtn"
+        android:layout_width="145dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="280dp"
+        android:layout_marginEnd="19dp"
+        android:layout_marginBottom="381dp"
+        android:background="@drawable/shape"
+        android:text="Limited Challenges"/>
+</RelativeLayout>
