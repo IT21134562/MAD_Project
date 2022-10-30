@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696909909567",
+    "firebase_url": "https://fiit-38cf0-default-rtdb.firebaseio.com",
+    "project_id": "fiit-38cf0",
+    "storage_bucket": "fiit-38cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696909909567:android:88f0c35ecc1bc97c25b28a",
+        "android_client_info": {
+          "package_name": "com.example.fiit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696909909567-nvhfj3o85p82aeve2qnkm10oq3qdesbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsaJmxIgp3oSIwu7rFyWo1PDiUVtUKK6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696909909567-nvhfj3o85p82aeve2qnkm10oq3qdesbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
