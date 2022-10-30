@@ -3,7 +3,7 @@
 Seek & Save Group
 FIIT - Fitness stat App
 
-Members
+Group Members
 
 K.I.S. Kuruppu 
 M.E. Katipearachchi
