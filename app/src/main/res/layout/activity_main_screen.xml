@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:backgroundTint="@color/Gray1"
+    android:background="@drawable/brick"
     tools:context=".MainScreen">
 
     <Button
@@ -17,7 +17,8 @@
         android:layout_marginEnd="74dp"
         android:layout_marginBottom="382dp"
         android:layout_toStartOf="@+id/limiBtn"
-        android:background="@drawable/fold"
+        android:textColor="@color/white"
+        android:background="@drawable/button"
         android:text="Permanent Challenges"/>
 
     <Button
@@ -30,6 +31,7 @@
         android:layout_marginTop="280dp"
         android:layout_marginEnd="19dp"
         android:layout_marginBottom="381dp"
-        android:background="@drawable/shape"
+        android:background="@drawable/button"
+        android:textColor="@color/white"
         android:text="Limited Challenges"/>
 </RelativeLayout>
